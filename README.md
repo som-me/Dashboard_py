@@ -102,9 +102,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any inquiries or further questions, reach out to the project maintainer:
 
-- **Email**: your-email@example.com
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
+- **Email**: som.meher.2024.com
+- **GitHub**: [https://github.com/your-username](https://github.com/som-me)
 
 ---
 
-This README provides a structured overview of the progress made so far. Make sure to replace the placeholders like repository URL, email, and GitHub profile with your actual details.
+This README provides a structured overview of the progress made so far.
